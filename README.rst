@@ -21,17 +21,17 @@ my long-term plans if it's vaguer, less important, or more of a goal.
 
 To that end, it offers only three views of your lists:
 
-    - **Today:** See the tasks set yesterday, and record things you get done
-      (anything of note, not just the tasks you set the day before).
-    - **Tomorrow:** Enter tasks for tomorrow. They should be clear and concise.
-      Don't enter something like "finish project", instead enter separate tasks
-      for each part of the project that still needs doing.
-    - **Earlier:** What you got done on previous days. It's good to look back
-      and see what you got done, so there's the option to view what you
-      completed.
-      You may *not* view the previous days' tasks, because I have no wish to
-      dwell on tasks I never got done, and the ones I *did* get done will be in
-      what's shown anyway.
+- **Today:** See the tasks set yesterday, and record things you get done
+  (anything of note, not just the tasks you set the day before).
+- **Tomorrow:** Enter tasks for tomorrow. They should be clear and concise.
+  Don't enter something like "finish project", instead enter separate tasks
+  for each part of the project that still needs doing.
+- **Earlier:** What you got done on previous days. It's good to look back
+  and see what you got done, so there's the option to view what you
+  completed.
+  You may *not* view the previous days' tasks, because I have no wish to
+  dwell on tasks I never got done, and the ones I *did* get done will be in
+  what's shown anyway.
 
 
 .. _project page: //github.com/bit-shift/tomorrow-ill/
@@ -49,18 +49,18 @@ Overview
 Along the top of the app, you'll see 5 tabs. The first 3 are your lists, and
 are for the purposes described in `What is it?`_. The remaining 2 are:
 
-    - **Import/Export:** For moving your data between different computers, or
-      between different browsers on the same computer.
-      The data exported is plain ASCII with no meaningful whitespace, which
-      means in layman's terms that it can be safely sent via just about any
-      plain text method you care to use (email, as a text file, even via an IM
-      service if you split it into chunks that fit within the message limit of
-      that service.)
-    - **Options:** This is where you will be able to lightly tweak the behaviour
-      of the app if it ever gains features that require options, or clear your
-      data if you need to start fresh (though I'd still recommend exporting it
-      first, and keeping that copy safe, if you have even the slightest chance
-      of needing it back).
+- **Import/Export:** For moving your data between different computers, or
+  between different browsers on the same computer.
+  The data exported is plain ASCII with no meaningful whitespace, which
+  means in layman's terms that it can be safely sent via just about any
+  plain text method you care to use (email, as a text file, even via an IM
+  service if you split it into chunks that fit within the message limit of
+  that service.)
+- **Options:** This is where you will be able to lightly tweak the behaviour
+  of the app if it ever gains features that require options, or clear your
+  data if you need to start fresh (though I'd still recommend exporting it
+  first, and keeping that copy safe, if you have even the slightest chance
+  of needing it back).
 
 Earlier
 -------
@@ -82,21 +82,21 @@ done during the day.
 
 Progress updates may be added one of two ways:
 
-    - **Adding them to the general progress list:** To create an entry this way,
-      click the **+** button at the end of the list, and type in a quick summary
-      of that piece of progress. It will be saved and added to the list as soon
-      as you press enter, or click outside of the text entry area.  Entries may
-      be edited right up until the end of the day, by clicking the **Edit**
-      button to the right of the entry.
-    - **Associating them to a task:** To create an entry this way, click the
-      **+** button to the right of a task, and enter the summary as above. This
-      will display progress inline with that task, and is provided as a means of
-      visually associating tasks to their progress. It is *not* mandatory,
-      simply provided for convenience if you prefer to work that way.  The tasks
-      themselves are *not* kept beyond the end of the day, so if you wish to
-      re-read your progress in the **Earlier** tab, you may want to describe
-      your progress in ways that do not require the context of the associated
-      task to be understood.
+- **Adding them to the general progress list:** To create an entry this way,
+  click the **+** button at the end of the list, and type in a quick summary
+  of that piece of progress. It will be saved and added to the list as soon
+  as you press enter, or click outside of the text entry area.  Entries may
+  be edited right up until the end of the day, by clicking the **Edit**
+  button to the right of the entry.
+- **Associating them to a task:** To create an entry this way, click the
+  **+** button to the right of a task, and enter the summary as above. This
+  will display progress inline with that task, and is provided as a means of
+  visually associating tasks to their progress. It is *not* mandatory,
+  simply provided for convenience if you prefer to work that way.  The tasks
+  themselves are *not* kept beyond the end of the day, so if you wish to
+  re-read your progress in the **Earlier** tab, you may want to describe
+  your progress in ways that do not require the context of the associated
+  task to be understood.
 
 Tomorrow
 --------
@@ -105,14 +105,14 @@ Tasks may be entered here in much the same way as progress on the **`Today`_**
 tab, by clicking the + button at the end of the list, and entering a short
 description of the task. This should be:
 
-    - **Clear:** Don't be vague about it, you will only wish you'd been more
-      specific when you come to look back at the task tomorrow.
-    - **Concise:** Conversely, don't go into the minutiae of it - you'll find it
-      harder to follow if you have to read through too much text to actually get
-      an idea of what you wanted yourself to do.
-      If you find a task becoming too long, consider only including the details
-      you *need*, but are unlikely to remember; or splitting it into smaller
-      tasks if there's more than one part to it.
+- **Clear:** Don't be vague about it, you will only wish you'd been more
+  specific when you come to look back at the task tomorrow.
+- **Concise:** Conversely, don't go into the minutiae of it - you'll find it
+  harder to follow if you have to read through too much text to actually get
+  an idea of what you wanted yourself to do.
+  If you find a task becoming too long, consider only including the details
+  you *need*, but are unlikely to remember; or splitting it into smaller
+  tasks if there's more than one part to it.
 
 You may edit a task at any time before tomorrow, by clicking the **Edit** button
 to the right of it and changing the text.
