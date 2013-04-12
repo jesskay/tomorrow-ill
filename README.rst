@@ -166,5 +166,5 @@ correctly when run from file:// URLs (this may change in future, but at present
 it is not possible).
 
 
-.. _live demo: //bit-shift.github.io/tomorrow-ill/
+.. _live demo: http://bit-shift.github.io/tomorrow-ill/
 .. _snapshot: //github.com/bit-shift/tomorrow-ill/archive/master.zip
